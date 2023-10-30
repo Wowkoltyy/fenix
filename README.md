@@ -1,15 +1,9 @@
----
-author:
-- Олимпиада \"Технологии успеха\", команда 548-I
-date: 24 октября - 31 октября 2023 года
-title: |
-  **Fenix**
----
 
-![image](Imagies/School.png){width="2cm"}
-![image](Imagies/Logo.jpeg){width="2cm"}
-![image](Imagies/BTO.jpeg){width="2cm"}
-![image](Imagies/Fenix.jpeg){width="2cm"}
+
+![image](Imagies/School.png)
+![image](Imagies/Logo.jpeg)
+![image](Imagies/BTO.jpeg)
+![image](Imagies/Fenix.jpeg)
 
 # Что такое Fenix?
 
@@ -52,7 +46,7 @@ Fenix - модель лазерного проектора, разработан
 
 # Цена устройства
 
-::: center
+
   Наименование                Цена за штуку в рублях   количество   Сумма
   --------------------------- ------------------------ ------------ -------
   Мотор Nema 17               500                      2            1000
