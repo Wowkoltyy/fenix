@@ -1,10 +1,3 @@
-
-
-![image](Imagies/School.png)
-![image](Imagies/Logo.jpeg)
-![image](Imagies/BTO.jpeg)
-![image](Imagies/Fenix.jpeg)
-
 # Что такое Fenix?
 
 Fenix - модель лазерного проектора, разработанная с нуля на олимпиаде
